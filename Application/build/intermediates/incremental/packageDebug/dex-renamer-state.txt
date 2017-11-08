@@ -1,0 +1,7 @@
+#Wed Nov 08 10:37:29 CET 2017
+base.0=C\:\\Users\\Guillaume\\Desktop\\Projet\\TestBLE\\android-BluetoothLeGatt-master\\Application\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_507adc5733004cbc5f260fa24778c58ec94833d5
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=C\:\\Users\\Guillaume\\Desktop\\Projet\\TestBLE\\android-BluetoothLeGatt-master\\Application\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_b68c4338d67ab4a0e57f66a6b0b39f003d40ce90\\classes.dex
+base.1=C\:\\Users\\Guillaume\\Desktop\\Projet\\TestBLE\\android-BluetoothLeGatt-master\\Application\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_b68c4338d67ab4a0e57f66a6b0b39f003d40ce90
+file.0=C\:\\Users\\Guillaume\\Desktop\\Projet\\TestBLE\\android-BluetoothLeGatt-master\\Application\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_507adc5733004cbc5f260fa24778c58ec94833d5\\classes.dex

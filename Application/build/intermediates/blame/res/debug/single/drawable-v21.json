@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "C:\\Users\\Guillaume\\Desktop\\Projet\\TestBLE\\android-BluetoothLeGatt-master\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\notification_action_background.xml",
+        "source": "C:\\Users\\Guillaume\\.android\\build-cache\\911374d551e035bbb04241f1d2791e3938466517\\output\\res\\drawable-v21\\notification_action_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Guillaume\\Desktop\\Projet\\TestBLE\\android-BluetoothLeGatt-master\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\abc_btn_colored_material.xml",
+        "source": "C:\\Users\\Guillaume\\.android\\build-cache\\f8c938fbd118ab15e9af83cabee1896ac5d5cbeb\\output\\res\\drawable-v21\\abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Guillaume\\Desktop\\Projet\\TestBLE\\android-BluetoothLeGatt-master\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\abc_edit_text_material.xml",
+        "source": "C:\\Users\\Guillaume\\.android\\build-cache\\f8c938fbd118ab15e9af83cabee1896ac5d5cbeb\\output\\res\\drawable-v21\\abc_edit_text_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Guillaume\\Desktop\\Projet\\TestBLE\\android-BluetoothLeGatt-master\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\abc_action_bar_item_background_material.xml",
+        "source": "C:\\Users\\Guillaume\\.android\\build-cache\\f8c938fbd118ab15e9af83cabee1896ac5d5cbeb\\output\\res\\drawable-v21\\abc_action_bar_item_background_material.xml"
+    }
+]
